@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleTest/GoogleTest.iml" filepath="$PROJECT_DIR$/GoogleTest/GoogleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySelenium.iml" filepath="$PROJECT_DIR$/mySelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myXS/myXS.iml" filepath="$PROJECT_DIR$/myXS/myXS.iml" />
+    </modules>
+  </component>
+</project>
